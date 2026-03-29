@@ -10,7 +10,7 @@ We design and develop IoT platforms, energy monitoring systems, and carbon track
 
 [![Website](https://img.shields.io/badge/Website-ecobora.co-0ea5e9?style=flat-square&logo=safari&logoColor=white)](https://ecobora.co)
 [![Platform](https://img.shields.io/badge/Platform-iot.emissionfy.com-10b981?style=flat-square&logo=lightning&logoColor=white)](https://iot.emissionfy.com)
-[![Email](https://img.shields.io/badge/Contact-info@ecobora.com-6366f1?style=flat-square&logo=gmail&logoColor=white)](mailto:info@ecobora.com)
+[![Email](https://img.shields.io/badge/Contact-info@ecobora.com-6366f1?style=flat-square&logo=gmail&logoColor=white)](mailto:technical@ecobora.com)
 [![Location](https://img.shields.io/badge/Based_in-Nairobi,_Kenya-f59e0b?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Nairobi,Kenya)
 
 </div>
